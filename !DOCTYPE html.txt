@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yobu'Mah Taxi Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        header, section, footer {
+            padding: 20px;
+            text-align: center;
+        }
+        header {
+            background-color: #004aad;
+            color: white;
+        }
+        h1, h2 {
+            margin: 0.5em 0;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        a {
+            color: #004aad;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            border-radius: 5px;
+            margin: 10px;
+        }
+        footer {
+            background-color: #f4f4f4;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Yobu'Mah Taxi Service</h1>
+        <p>Experience Gambia’s Premium Ride – 24/7 at Your Service</p>
+        <a href="https://wa.me/+2205143092" class="cta-button">📲 Book a Ride Now</a>
+    </header>
+
+    <section>
+        <h2>Our Premium Services</h2>
+        <ul>
+            <li><strong>✈️ Airport Pickups</strong><br>Reliable rides to and from Banjul International Airport.</li>
+            <li><strong>💼 Corporate Travel</strong><br>Professional and comfortable transport for business clients.</li>
+            <li><strong>🏙 City Tours</strong><br>Explore Gambia with a private driver.</li>
+            <li><strong>🏫 School Runs</strong><br>Safe and punctual rides for your kids.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Why Ride with Yobu’Mah?</h2>
+        <ul>
+            <li>⭐ 5-Star Rated Service</li>
+            <li>✅ Licensed & Professional Drivers</li>
+            <li>🚘 Premium Vehicles</li>
+            <li>🕐 24/7 Availability</li>
+            <li>🌍 Serving Banjul, Serrekunda & Coastal Gambia</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Pricing (Sample)</h2>
+        <ul>
+            <li><strong>Airport Pickup:</strong> Contact for Quote</li>
+            <li><strong>Hotel Transfer:</strong> Contact for Quote</li>
+            <li><strong>School Runs:</strong> Contact for Quote/week</li>
+            <li><strong>City Tours:</strong> Contact for custom price</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>📞 Call/WhatsApp: <a href="tel:+2205143092">+220 5143092</a></p>
+        <p>✉️ Email: <a href="mailto:info@yobumah.gm">info@yobumah.gm</a></p>
+        <p><a href="https://wa.me/+2205143092" class="cta-button">📲 Book via WhatsApp</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Yobu'Mah Taxi Service – All Rights Reserved</p>
+        <p>Follow us: <a href="#">Facebook</a> | <a href="#">Instagram</a></p>
+    </footer>
+</body>
+</html>
